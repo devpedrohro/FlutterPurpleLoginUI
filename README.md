@@ -1,4 +1,4 @@
-# login_ui
+# Flutter Purple Login UI
 
 A new Flutter project.
 
