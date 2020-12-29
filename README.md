@@ -1,6 +1,12 @@
 # Flutter Purple Login UI
 
-A new Flutter project.
+A Flutter Login UI project.
+
+![Welcome Screen](https://i.imgur.com/85kD8rN.png)
+
+![Login Screen](https://i.imgur.com/lRD0X3o.png)
+
+![SignUp Screen](https://i.imgur.com/35o9zlT.png)
 
 ## Getting Started
 
