@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:login_ui/constans.dart';
 
 class TextFieldContainer extends StatelessWidget {
   final Widget child;
@@ -7,6 +8,14 @@ class TextFieldContainer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    Size size = MediaQuery.of(context).size;
+    return Container(
+      margin: EdgeInsets.symmetric(vertical: 10),
+      padding: EdgeInsets.symmetric(horizontal: 20),
+      width: size.width * 0.8,
+      decoration: BoxDecoration(
+          color: kPrimaryColor, borderRadius: BorderRadius.circular(29)),
+      child: child,
+    );
   }
 }
