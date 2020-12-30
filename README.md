@@ -2,11 +2,7 @@
 
 A Flutter Login UI project.
 
-![Welcome Screen](https://i.imgur.com/85kD8rN.png)
-
-![Login Screen](https://i.imgur.com/lRD0X3o.png)
-
-![SignUp Screen](https://i.imgur.com/35o9zlT.png)
+<img src="https://i.imgur.com/85kD8rN.png"  width="300"/> <img src="https://i.imgur.com/lRD0X3o.png"  width="300"/> <img src="https://i.imgur.com/35o9zlT.png"  width="300"/>
 
 ## Getting Started
 
